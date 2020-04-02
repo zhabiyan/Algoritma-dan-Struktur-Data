@@ -11,4 +11,4 @@
 <img src=Output(2).PNG>
 
 ## Penjelasan
-Program mempunyai fitur mencari umur dengan metode Binary Search dari data yang sudah ada, dan mengurutkan dengan metode Merge Sort dari data yang sudah ada juga.
+Program mempunyai fitur mencari umur dengan metode Binary Search dari data yang sudah ada, dan mengurutkan data dari yang terkecil ke terbesar dengan metode Merge Sort dari data yang sudah ada juga.
