@@ -5,7 +5,7 @@
 
 1. Class Main
 
-<img src = main.png>
+<img src = main.PNG>
 
 2. Class Node
 
