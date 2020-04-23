@@ -9,16 +9,16 @@
 
 2. Class Node
 
-<img src = node.png>
+<img src = node.PNG>
 
 3. Class LinkedLists
 
-<img src = linkedlists1.png>
-<img src = linkedlists2.png>
+<img src = linkedlists1.PNG>
+<img src = linkedlists2.PNG>
 
 Output program
 
-<img src = output.png>
+<img src = output.PNG>
 
 # Flowchart
 1. Main
