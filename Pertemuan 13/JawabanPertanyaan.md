@@ -25,5 +25,5 @@ berfungsi untuk mengubah node prev pada node setelah current diubah menjadi node
 Double linked list :  
 <img src = doublelinkedlists_add.PNG>
 
-    Single linked list :  
+Single linked list :  
 <img src = singlelinkedlists_add.PNG>
